@@ -1,7 +1,7 @@
 # SEO
 Search Engine Optimization - SEO - YouTube and Google - how best to set search algorithms. 
 
-1. My target keyword for this page is: SILUS GAMING WORLD
+1. My target keyword for this page is: SILUS GAMING WORLD &amp; SILUS SPIDER &amp; SILUS
 
 ________________________________________
 
