@@ -1,7 +1,35 @@
 # SEO
 Search Engine Optimization - SEO - YouTube and Google - how best to set search algorithms. 
 
-1. My target keyword for this page is: SILUS GAMING WORLD &amp; SILUS SPIDER &amp; SILUS
+<h1>17 Ways to Get More YouTube Subscribers</h1>
+
+<a href="https://backlinko.com/how-to-get-youtube-subscribers#powerplaylists">How to get YouTube Subscribers</a>
+
+
+Here's What We Learned About YouTube SEO
+<a href="https://backlinko.com/youtube-ranking-factors">YouTube Ranking Factors</a>
+
+
+Chrome is moving towards a new experience that allows users to choose to browse 
+without third-party cookies.
+
+YouTube’s algorithm serves the most relevant, personalized videos to their users 
+on five different sections of their platform: Search, Home, Suggested Videos, 
+Trending, Subscriptions, and Notifications.
+
+"But YouTube’s algorithm also uses different signals and metrics to rank and recommend 
+videos on each section of their platform. With this in mind, let's go over how the 
+algorithm serves content via YouTube's six main user categories: Search, Home, Suggested 
+Videos, Trending, Subscriptions, and Notifications." 
+
+https://blog.hubspot.com/marketing/youtube-algorithm?hubs_content=blog.hubspot.com/marketing/youtube-seo&hubs_content-cta=search%20algorithms
+
+“We Remove content that violates our policies, 
+Reduce the spread of harmful misinformation and borderline material, 
+Raise up authoritative sources for news and information, and 
+Reward trusted Creators.”
+
+1. My target keywords for this page are: SILUS GAMING WORLD &amp; SILUS SPIDER &amp; SILUS
 
 ________________________________________
 
