@@ -1,10 +1,9 @@
 # SEO
 Search Engine Optimization - SEO - YouTube and Google - how best to set search algorithms. 
 
-<h1>17 Ways to Get More YouTube Subscribers</h1>
+<h1>Almost Infinite Ways to Get More YouTube Subscribers</h1>
 
 <a href="https://backlinko.com/how-to-get-youtube-subscribers#powerplaylists">How to get YouTube Subscribers</a>
-
 
 Here's What We Learned About YouTube SEO
 <a href="https://backlinko.com/youtube-ranking-factors">YouTube Ranking Factors</a>
@@ -116,6 +115,364 @@ ________________________________________
 Why It’s Important: Like I mentioned back in item #10 from this list, a high CTR can boost your rankings. And your title tag is a BIG factor in what people use to decide what to click on.
 
 ________________________________________
+
+16. Use "Power Playlists" where the title of that playlist is an outcome: For example, "How to Get Higher Google Rankings".
+
+________________________________________
+
+17. Publish Long Videos
+
+
+________________________________________
+
+18. Promote Videos In Your End Screen
+
+________________________________________
+
+19. Use a Brand Watermark
+
+
+________________________________________
+
+20. Focus On Video Quality &amp; Consistency
+
+
+________________________________________
+
+21. Reply To Every Comment
+
+
+________________________________________
+
+22. Write a Compelling Channel Description
+
+
+________________________________________
+
+23. Identify the video that brought you the most subs last month:
+(This video is your “Subscriber Magnet”.)
+
+First, feature that video in your End Screen.
+
+Second, make a playlist that starts off with that video.
+
+Finally, promote that video in a card.
+
+________________________________________
+
+24. Promote Your Channel
+blog post, podcast episode or Instagram
+
+Social networks (like Facebook, Twitter and Reddit) want to promote native content on their platform.
+Finally, include a link to your video as the first comment on the post.
+
+Social Media: Share your videos on other social media platforms to reach a wider audience. 
+Collaborations: Partner with other YouTubers in your niche to cross-promote each other's channels. 
+Website/Blog Integration: Embed your YouTube videos on your website or blog to further promote your channel. 
+
+________________________________________
+
+25. Optimize Your Channel Page
+
+Organized the videos so that my best content appeared at the top:
+
+
+________________________________________
+
+26. Ask People to Subscribe
+And NO don't just say "Make sure to subscribe to my channel" because nobody is gonna listen to that.
+
+Here's what to do instead...
+
+Say this "Subscribe and leave a comment saying 'I subscribed' and I'll personally reply to your comment"
+
+If you do this and reply to just a few peoples' comments, other people will see this and subscribe. The videos you do this on will have the highest subscriber to view ration.
+
+
+
+________________________________________
+
+27. First, collaborate with other YouTubers, it can extremely expose your channel to the other YouTuber subscribers.
+
+Second, use your other social media profiles and promote your YouTube channel there too.
+
+Third, be consistent. Upload a video once a week. People love to see continuity. Also, make sure your video is a high-quilty one. Make sure you have a good light and your video have a clear sound, no one want to see a non-quilty video. Gaining subscribers on your own can take you a lot of time, so consider to buy YouTube subs. I can say that I used GetFans service and that it was extremely helpful for me. It made my channel to look more legit and helped me to gain more organic subscribers to my YouTube channel.
+
+________________________________________
+
+28. Use the Beta video upload mode.
+
+Link your videos to each other.
+
+Share the link of your videos on other social media.
+
+Link your YouTube channel to other social media.
+
+________________________________________
+
+29. * FACTS
+
+* GAMING
+
+* FOOD
+
+* TECH
+
+* VLOGS
+
+* CELEBRITY GOSSIP VIDEOS
+
+* COMEDY
+
+* SKETCH VIDEOS ETC…
+
+
+________________________________________
+
+30. Always research and then use write the Title for your videos. Search for a cool title so that people will like to click on your videos.
+
+
+
+________________________________________
+
+31. 
+
+
+
+________________________________________
+
+32. 
+
+
+
+________________________________________
+
+33. 
+
+
+
+________________________________________
+
+34. 
+
+
+
+________________________________________
+
+35. 
+
+
+
+________________________________________
+
+36. 
+
+
+
+________________________________________
+
+37. 
+
+
+
+________________________________________
+
+38. 
+
+
+
+________________________________________
+
+39. 
+
+
+
+________________________________________
+
+40. 
+
+
+
+________________________________________
+
+41. 
+
+
+
+________________________________________
+
+42. 
+
+
+
+________________________________________
+
+43. 
+
+
+
+________________________________________
+
+44. 
+
+
+
+________________________________________
+
+45. 
+
+
+
+________________________________________
+
+46. 
+
+
+
+________________________________________
+
+47. 
+
+
+
+________________________________________
+
+48. 
+
+
+
+________________________________________
+
+49. 
+
+
+
+________________________________________
+
+50. 
+
+
+
+________________________________________
+
+51. 
+
+
+
+________________________________________
+
+52. 
+
+
+________________________________________
+
+53. 
+
+
+
+________________________________________
+
+54. 
+
+
+
+________________________________________
+
+55. 
+
+
+
+________________________________________
+
+56. 
+
+
+
+________________________________________
+
+57. 
+
+
+
+________________________________________
+
+58. 
+
+
+________________________________________
+
+59. 
+
+
+
+________________________________________
+
+60. 
+
+
+
+________________________________________
+
+61. 
+
+
+
+________________________________________
+
+62. 
+
+
+
+________________________________________
+
+63. 
+
+
+
+________________________________________
+
+64. 
+
+
+
+________________________________________
+
+65. 
+
+
+
+________________________________________
+
+66. 
+
+
+
+________________________________________
+
+67. 
+
+
+
+________________________________________
+
+68. 
+
+
+
+________________________________________
+
+69. 
+
+
+
+________________________________________
+
+70. 
+
+
+
+
+
 
 That’s it for this on-page SEO template. I hope you enjoyed it! Remember, you can find 20+ other marketing templates here.
 
