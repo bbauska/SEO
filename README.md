@@ -32,57 +32,63 @@ ________________________________________
 
 1. Publish Long Videos
 
+😵‍💫
 
 ________________________________________
 
 2. Promote Videos In Your End Screen
 
+😶‍🌫️
 
 ________________________________________
 
 3. Use a Brand Watermark
 
+🙂‍↕️
 
 ________________________________________
 
 4. Focus On Video Quality &amp; Consistency
 
+🧑‍🦰
 
 ________________________________________
 
 5. Reply To Every Comment
 
+🧔‍♀️
 
 ________________________________________
 
 6. Write a Compelling Channel Description
 
+🧑‍🏭
 
 ________________________________________
 
 7. Identify the video that brought you the most subs last month:
 (This video is your “Subscriber Magnet”.)
-
+🧑‍🎨
 First, feature that video in your End Screen.
-
+🧑‍🏭
 Second, make a playlist that starts off with that video.
-
+🧑‍⚕️
 Finally, promote that video in a card.
-
+🧑‍🌾
 ________________________________________
 
 8. Promote Your Channel
 blog post, podcast episode or Instagram
-
+👮‍♀️
 Social networks (like Facebook, Twitter and Reddit) want to promote native content on their platform.
 Finally, include a link to your video as the first comment on the post.
-
+🧙‍♂️
 Social Media: Share your videos on other social media platforms to reach a wider audience. 
 Collaborations: Partner with other YouTubers in your niche to cross-promote each other's 
 channels. 
 Website/Blog Integration: Embed your YouTube videos on your website or blog to further 
 promote your channel. 
-
+🧑‍🧑‍🧒
 ________________________________________
 
 9. Optimize Your Channel Page
