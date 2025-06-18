@@ -1,7 +1,7 @@
 # SEO
 Search Engine Optimization - SEO - YouTube and Google - how best to set search algorithms. 
 
-<h1>Almost Infinite Ways to Get More YouTube Subscribers</h1>
+<h1>Ways to Get More YouTube Subscribers</h1>
 
 <a href="https://backlinko.com/how-to-get-youtube-subscribers#powerplaylists">How to get YouTube Subscribers</a>
 
