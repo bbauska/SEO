@@ -210,34 +210,38 @@ Link your YouTube channel to other social media.
 
 ________________________________________
 
-29. * FACTS
+29. * 😀 FACTS
 
-* GAMING
+* 😛 GAMING
 
-* FOOD
+* 😳 FOOD
 
-* TECH
+* 😌 TECH
 
-* VLOGS
+* 😟 VLOGS
 
-* CELEBRITY GOSSIP VIDEOS
+* 😍 CELEBRITY GOSSIP VIDEOS
 
-* COMEDY
+* 😇 COMEDY
 
-* SKETCH VIDEOS ETC…
-
-
-________________________________________
-
-30. Always research and then use write the Title for your videos. Search for a cool title so that people will like to click on your videos.
-
+* 😰️ SKETCH VIDEOS ETC…
 
 
 ________________________________________
 
-31. 
+30. 🤯 Always research and then use write the Title for your videos. Search for a cool title so that people will like to click on your videos.
 
+👽
 
+________________________________________
+
+31. 🤬 Comments appear to be an influential ranking factor. We found that a video’s comment count strongly correlates with higher rankings.
+
+Longer videos significantly outperform shorter videos. The average length of a first page YouTube video is 14 minutes, 50 seconds.
+
+We discovered that video views have a significant correlation with rankings.
+
+The number of shares a video generates is strongly tied to first page YouTube rankings.
 
 ________________________________________
 
