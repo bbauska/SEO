@@ -1,4 +1,6 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>SEO</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Search Engine Optimization - SEO - YouTube and Google - how best to set search algorithms.</p>
 
 <h2>Try <a href="https://search.google.com/search-console/about">Google Search Console (GSC)</a></h2>
@@ -14,59 +16,69 @@
   <li>Accessibility</li>
 </ol></h3>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>1. Web page speed tools</h2>
-A slow website can drive users away and hurt search rankings. Web page speed tools aren’t going to fix your slow site on their own, but they will measure page speed and show you what’s slowing it down. You’ll be able to pinpoint how to improve page load times by following recommendations like
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>A slow website can drive users away and hurt search rankings. Web page speed tools aren’t 
+going to fix your slow site on their own, but they will measure page speed and show you 
+what’s slowing it down. You’ll be able to pinpoint how to improve page load times by 
+following recommendations like;</p>
 
-	- <h3>Reducing and compressing HTML, CSS, JavaScript, and images</h3>
+<h3><ul>
+  <li>Reducing and compressing HTML, CSS, JavaScript, and images</li>
+  <li>Caching content</li>
+  <li>Using faster-hosting servers</li>
+</ul></h3>
 
-	- <h3>Caching content</h3>
-
-	- <h3>Using faster-hosting servers</h3>
-
-Popular website speed optimization tools
-
-	- <h3>Contentsquare’s Speed Analysis tool</h3>
-
-	- <h3>Pingdom</h3>
-
-	- <h3>WebPageTest</h3>
-
-	- <h3>Lighthouse</h3>
-
+<h4>Popular website speed optimization tools</h4>
+<ul>
+  <li>Contentsquare’s Speed Analysis tool</li>
+  <li>Pingdom</li>
+  <li>WebPageTest</li>
+  <li>Lighthouse</li>
+</ul>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>2. Search engine optimization (SEO)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>SEO helps you get more free website traffic from search engines like Google and Bing. 
+There are many website optimization tools in the SEO category that help you optimize your 
+site structure, keywords, and rankings. These include;</p>
 
-SEO helps you get more free website traffic from search engines like Google and Bing. There are many website optimization tools in the SEO category that help you optimize your site structure, keywords, and rankings. These include
+<h3>Technical SEO tools to audit on-page SEO (like checking meta robots tags or 404 links)</h3>
 
-Technical SEO tools to audit on-page SEO (like checking meta robots tags or 404 links)
+<h3>Keyword research tools to find keyword ideas</h3>
 
-Keyword research tools to find keyword ideas
+<h3>Rank tracking tools to measure and compare search traffic, and tell you how your site 
+ranks in the search engine results pages (SERPs) for target keywords.</h3>
 
-Rank tracking tools to measure and compare search traffic, and tell you how your site ranks in the search engine results pages (SERPs) for target keywords
+<h3>Content optimization tools to optimize for target keywords</h3>
 
-Content optimization tools to optimize for target keywords
+<h3>Backlink analysis tools to check which pages link to your site (or to competitors)</h3>
 
-Backlink analysis tools to check which pages link to your site (or to competitors)
+<h3>Video SEO tools to optimize your videos to rank highly on video search engines like YouTube</h3>
 
-Video SEO tools to optimize your videos to rank highly on video search engines like YouTube
+<h3>You can use specialist SEO tools that only do one thing (for example, Screaming Frog 
+is a dedicated technical SEO tool), and all-in-one SEO tools, like Ahrefs, which do a 
+little of everything.</h3>
 
-You can use specialist SEO tools that only do one thing (for example, Screaming Frog is a dedicated technical SEO tool), and all-in-one SEO tools, like Ahrefs, which do a little of everything.
+<h4>Popular SEO tools</h4>
+<h5>Bing Webmaster Tools<h5>
 
-Popular SEO tools
-Bing Webmaster Tools
+<h3>Ahrefs</h3>
 
-Ahrefs
+<h3>Moz</h3>
 
-Moz
+<h3>Semrush</h3>
 
-Semrush
+<h3>Clearscope</h3>
 
-Clearscope
+<h3>Yoast SEO</h3>
 
-Yoast SEO
+<h3>Google Trends</h3>
 
-Google Trends
-
-3. UX optimization tools
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>3. UX optimization tools</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Great UX reduces friction and keeps visitors engaged. Many website optimization tools are designed specifically to track, analyze, and improve user behavior across your site.
 
 UX optimization tools won't magically improve your user experience, but usability testing will help you understand user behavior and diagnose problems so you can optimize pages and give people what they need to keep browsing and buying from your site.
@@ -84,7 +96,9 @@ UsabilityHub
 
 Adobe Analytics
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 4. CRO tools
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 When done right, CRO increases the number of website visitors who become customers (or perform any desired action on your site).
 
 There’s no single tool that improves conversion rate but with a combination of
@@ -117,7 +131,9 @@ Use dashboards to monitor your conversion data. If you see that the conversions 
 Use Journey Analysis to see the paths users usually take to conversion and the pages they’re most likely to drop off of. This helps you identify the points in the customer journey that seem to be putting users off their conversion goals. If there’s a page with a particularly high drop-off rate, for example, you can click through to watch session replays of how users behave on it. You might discover they’re getting stuck with a broken CTA or confusing information—in other words, you may find that there’s a simple design fix that would boost your conversions.
 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 5. Mobile optimization tools
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 More people browse websites on mobile than desktop, so mobile-first optimization helps you ensure people view your site correctly on phones and tablets. Web elements like pop-ups, image-heavy pages, and tiny text can make your site difficult to navigate on mobile.
 
 Of course, generalizations aren’t always helpful, so check your analytics data to find out what percentage of your users and customers browse on mobile devices and understand how important mobile optimization is to your business.
@@ -131,7 +147,9 @@ Mobile-Friendly Test
 
 WebPageTest
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 6. Accessibility tools
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 An inclusive web experience isn’t optional—it’s a core part of UX. Accessibility-focused website optimization tools help you detect and fix issues that could prevent users with disabilities from navigating your site. Making your site accessible also contributes to better SEO and broader customer reach.
 
 Popular accessibility optimization tools
@@ -201,43 +219,57 @@ Reward trusted Creators.”
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 1. Publish Long Videos
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 😵‍💫
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 2. Promote Videos In Your End Screen
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 😶‍🌫️
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 3. Use a Brand Watermark
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 🙂‍↕️
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 4. Focus On Video Quality &amp; Consistency
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 🧑‍🦰
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 5. Reply To Every Comment
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 🧔‍♀️
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 6. Write a Compelling Channel Description
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 🧑‍🏭
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 7. Identify the video that brought you the most subs last month:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 (This video is your “Subscriber Magnet”.)
 🧑‍🎨
 First, feature that video in your End Screen.
@@ -248,7 +280,9 @@ Finally, promote that video in a card.
 🧑‍🌾
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 8. Promote Your Channel
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 blog post, podcast episode or Instagram
 👮‍♀️
 Social networks (like Facebook, Twitter and Reddit) want to promote native content on their platform.
@@ -262,14 +296,18 @@ promote your channel.
 🧑‍🧑‍🧒
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 9. Optimize Your Channel Page
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Organized the videos so that my best content appeared at the top:
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 10. Ask People to Subscribe
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 And NO don't just say "Make sure to subscribe to my channel" because nobody is gonna listen to that.
 
 Here's what to do instead...
@@ -282,8 +320,10 @@ subscribe. The videos you do this on will have the highest subscriber to view ra
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 11. First, collaborate with other YouTubers, it can extremely expose your channel to the 
 other YouTuber subscribers.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Second, use your other social media profiles and promote your YouTube channel there too.
 
@@ -296,7 +336,9 @@ look more legit and helped me to gain more organic subscribers to my YouTube cha
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 12. Use the Beta video upload mode.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Link your videos to each other.
 
@@ -306,7 +348,9 @@ Link your YouTube channel to other social media.
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 13. * 😀 FACTS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 * 😛 GAMING
 
@@ -325,15 +369,19 @@ ________________________________________
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 14. 🤯 Always research and then use write the Title for your videos. Search for a cool 
 title so that people will like to click on your videos.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 👽
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 15. 🤬 Comments appear to be an influential ranking factor. We found that a video’s 
 comment count strongly correlates with higher rankings.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Longer videos significantly outperform shorter videos. The average length of a first 
 page YouTube video is 14 minutes, 50 seconds.
@@ -344,7 +392,9 @@ The number of shares a video generates is strongly tied to first page YouTube ra
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 16. Write an enticing meta description.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important:  Although using keywords in your meta description isn’t a ranking 
 factor anymore, organic click through rate is. And when Google searchers see a 
@@ -353,61 +403,79 @@ click on your site.
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 17. Make your site work with mobile devices. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: In other words, your site should be mobile-optimized for Google 
 users and search engine crawlers. Google’s index is now “mobile-first”, which makes 
 mobile usability an absolute most for SEO.
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 18. My target keywords for this page are: SILUS GAMING WORLD &amp; SILUS SPIDER &amp; SILUS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 19. Add your target keyword to your page’s URL. For example: mywebsite.com/my-keyword 
 or mywebsite.com/my-keyword-guide
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: Google uses the terms in your URL to understand what your page is all about.
 bauska.org/Silus
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 20. Use your keyword once at the top of your page (ideally in the first 50-100 words).
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: Search engines put more weight on terms that appear in prominent 
 places on your page (like at the top).
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 21. Use your keyword in your page’s title tag. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: From a Google SEO point of view, your title tag is the most 
 important place to include your keyword.
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 22. Use your keyword in an H1 and H2 Subheader.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: This emphasizes to Google that your page is focused on that 
 keyword and topic. H tags aren’t a huge deal for rankings. But every little bit helps. 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 23. Use keyword-rich image filenames and alt text. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: Google uses images to understand the content of your page. And 
 descriptive file names and alt text helps them understand what your page is all about.
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 24. Add internal links to other pages on your site. I recommend including at least 5 
 internal links per page. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: Internal links can help Google find, crawl and index more pages on 
 your site (and help them rank higher in the search results).
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 25. Add external links to other helpful websites and resources.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: External linking to related pages helps Google figure out your 
 page's topic. So I recommend adding lots of external links to pages that will help 
@@ -415,7 +483,9 @@ your users learn more about something that you cover on your page.
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 26. Use synonyms and related terms.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: In other words: include variations of your target keyword on your 
 page. For example, if your main keyword is “kettlebell workout”, use variations like 
@@ -423,34 +493,42 @@ page. For example, if your main keyword is “kettlebell workout”, use variati
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 27. Use structured data. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: Structured data (Schema) can help your site feature “Rich Snippets” 
 in the search results.
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 28. Match search intent. Double check that your page is a 1:1 match for search intent. The 
 best way to do that? Check out Google’s first page for that keyword. If they’re all a 
 specific type of page (like a list post or ecommerce product page), you want your page to 
 be in-line with what’s already ranking.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: If your page doesn’t satisfy search intent, your page most likely will 
 not rank for that keyword (even if you have lots of backlinks). It’s that important.
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 29. Decrease bounce rate. In other words: make your content “sticky” so that Google users 
 stay on your page...and don’t bounce back to the search results. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: Bounce rate probably isn’t a direct Google ranking factor. But it 
 might be. Especially if that bounce leads to “pogosticking”.
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 30. Write a title tag that’s keyword optimized and engineered for clicks. The best way 
 to do this is to think of what you would want to click on if you were searching for your 
 target keyword.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Why It’s Important: Like I mentioned back in item #10 from this list, a high CTR can 
 boost your rankings. And your title tag is a BIG factor in what people use to decide 
@@ -458,103 +536,137 @@ what to click on.
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 31. Use "Power Playlists" where the title of that playlist is an outcome: For example, 
 "How to Get Higher Google Rankings".
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 32. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 33. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 34. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 35. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 36. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 37. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 38. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 39. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 40. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 41. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 42. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 43. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 44. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 45. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 46. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
 ________________________________________
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 47. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 
 
@@ -693,13 +805,11 @@ ________________________________________
 70. 
 
 
-
-
-
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 That’s it for this on-page SEO template. I hope you enjoyed it! Remember, you can find 20+ other marketing templates here.
 
 And if you want a more in-depth look and further explanation of everything in this template, check out my Definitive Guide to On-Page SEO.
 
-Brian Dean
-Founder, Backlinko.com
+Brian Bauska
+Founder, cellardoor of bauska.org
