@@ -1,17 +1,18 @@
-# SEO
-Search Engine Optimization - SEO - YouTube and Google - how best to set search algorithms. 
+<h1>SEO</h1>
+<p>Search Engine Optimization - SEO - YouTube and Google - how best to set search algorithms.</p>
 
-<h2>Try <a href="">Google Search Console (GSC)</a></h2>
-What it is: Search Console is a free search optimization tool from Google
+<h2>Try <a href="https://search.google.com/search-console/about">Google Search Console (GSC)</a></h2>
+<p>What it is: Search Console is a free search optimization tool from Google.</p>
 
-Broadly, most website optimization tools fall into six main categories:
-
-	1. Page speed
-	2. Search engine optimization (SEO)
-	3. User experience (UX)
-	4. Conversion rate optimization (CRO)
-	5. Mobile-first
-	6. Accessibility
+<p>Broadly, most website optimization tools fall into six main categories:</p>
+<h3><ol type="1">
+  <li>Page speed</li>
+  <li>Search engine optimization (SEO)</li>
+  <li>User experience (UX)</li>
+  <li>Conversion rate optimization (CRO)</li>
+  <li>Mobile-first</li>
+  <li>Accessibility</li>
+</ol></h3>
 
 <h2>1. Web page speed tools</h2>
 A slow website can drive users away and hurt search rankings. Web page speed tools aren’t going to fix your slow site on their own, but they will measure page speed and show you what’s slowing it down. You’ll be able to pinpoint how to improve page load times by following recommendations like
